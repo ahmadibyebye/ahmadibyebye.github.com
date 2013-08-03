@@ -1,6 +1,6 @@
 body {
     font-family: "B badr", "Helvetica Neue", Helvetica, sans-serif;
-    background: url('background2.jpg') no-repeat center center fixed;
+    background: url('background3.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -17,7 +17,7 @@ body {
 
 .large-title {
     text-align: center;
-    font-size: 76px;
+    font-size: 68px;
     font-weight: 400;
     color: white;
 }
